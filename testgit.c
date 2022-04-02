@@ -7,6 +7,7 @@ int main()
     int a=10;
     int b=9999;
     printf("Hi\n");
+    int c=9090;
     printf("hello Shubham");
     return 0;
 }
